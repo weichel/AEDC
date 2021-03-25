@@ -20,7 +20,12 @@ export default function Home() {
 
           <br/>
           https://ilsr.org/the-states-of-distributed-solar/
-
+          <br/>
+          https://ilsr.org/national-community-solar-programs-tracker/
+          <br/>
+          http://www.discovernortheastmichigan.org/nemcog.asp
+          <br/>
+          https://en.wikipedia.org/wiki/Municipal_broadband
           <br/>
 
           test
