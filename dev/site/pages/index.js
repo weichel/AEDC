@@ -10,6 +10,9 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
+
+         https://en.wikipedia.org/wiki/Municipal_broadband
+          <br/>
           https://www.eda.gov/oie/buildtoscale/capital/2020/
 
           <br/>
